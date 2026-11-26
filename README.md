@@ -1,18 +1,19 @@
-# Fixed Base Operator Human Factor Trend Analysis
+The Original ASRS CSV file downloaded from the website
 
-An analysis of human factor trends in Fixed Base Operator (FBO) operations using NASA Aviation Safety Reporting System (ASRS) data from 2016–2025.
+[ASRS_DBOnline FBO Human Factors.csv](https://github.com/user-attachments/files/35474841/ASRS_DBOnline.FBO.Human.Factors.csv)
 
-**Tools:** SQL Server | Power BI | Excel
+Data Discovery in SQL Server
 
-## Project Portfolio
+[ASRS Query 1.sql](https://github.com/user-attachments/files/35476672/ASRS.Query.1.sql)
 
-[View the full project, dashboard and analytical findings](https://claude.ai/artifact/AeUJjvShNzHA22fqVwg3ZH#fbo)
+Filtering for each Human Factor from Multi-value columns
 
-## SQL Scripts
+[SQLQuery3.sql](https://github.com/user-attachments/files/35476686/SQLQuery3.sql)
 
-- [ASRS Query 1.sql](https://github.com/user-attachments/files/35476672/ASRS.Query.1.sql) — Initial data exploration and assessment.
-- [SQLQuery3.sql](https://github.com/user-attachments/files/35476686/SQLQuery3.sql) — Extraction of individual human factors from multi-value columns and preparation of data for visualization.
+Cleaned table showcasing the separated human factor incidents by date
 
-## Data Source
+[cleaned ASRS FBO Human Factors.csv](https://github.com/user-attachments/files/35475650/cleaned.ASRS.FBO.Human.Factors.csv)
 
-[NASA Aviation Safety Reporting System (ASRS)](https://asrs.arc.nasa.gov/)
+Power Query loading in Power BI
+
+Dashboard I created to showcase human factor trends by number and average throughout the years and by quarter in each year
