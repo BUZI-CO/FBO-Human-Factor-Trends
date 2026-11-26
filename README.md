@@ -98,7 +98,7 @@ The dashboard enables analysis of:
 
 ## Data Source
 
-[NASA Aviation Safety Reporting System (ASRS)](https://asrs.arc.nasa.gov/)
+[NASA Aviation Safety Reporting System (ASRS)](https://asrs.arc.nasa.gov/search/database.html)
 
 ASRS reports are voluntarily submitted. Reported occurrences
 should not be interpreted as definitive aviation incident rates.
