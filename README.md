@@ -1,21 +1,18 @@
-The Original ASRS CSV file downloaded from the website
-<img width="959" height="530" alt="ASRS Excel" src="https://github.com/user-attachments/assets/436fd984-9065-41a7-a765-0fc5cea8a1e4" />
-[ASRS_DBOnline FBO Human Factors.csv](https://github.com/user-attachments/files/35474841/ASRS_DBOnline.FBO.Human.Factors.csv)
+# Fixed Base Operator Human Factor Trend Analysis
 
-Data Discovery in SQL Server
-<img width="959" height="565" alt="ASRS SQL 2" src="https://github.com/user-attachments/assets/4076d51c-e1f8-4f07-92cc-e568079c5d70" />
-[ASRS Query 1.sql](https://github.com/user-attachments/files/35475399/ASRS.Query.1.sql)
+An analysis of human factor trends in Fixed Base Operator (FBO) operations using NASA Aviation Safety Reporting System (ASRS) data from 2016–2025.
 
-Filtering for each Human Factor from Multi-value columns
-<img width="955" height="367" alt="ASRS SQL 3" src="https://github.com/user-attachments/assets/4fd70292-0c7d-42c3-80ab-10963f273147" />
-[SQLQuery3.sql](https://github.com/user-attachments/files/35475530/SQLQuery3.sql)
+**Tools:** SQL Server | Power BI | Excel
 
-Cleaned table showcasing the separated human factor incidents by date
-<img width="959" height="528" alt="ASRS Excel 2" src="https://github.com/user-attachments/assets/c34a9257-edc7-495b-97ac-353990e3f59d" />
-[cleaned ASRS FBO Human Factors.csv](https://github.com/user-attachments/files/35475650/cleaned.ASRS.FBO.Human.Factors.csv)
+## Project Portfolio
 
-Power Query loading in Power BI
-<img width="959" height="563" alt="Power BI 1" src="https://github.com/user-attachments/assets/23ceb965-762b-4f12-bdc8-1043afa50b5c" />
+[View the full project, dashboard and analytical findings](https://claude.ai/artifact/AeUJjvShNzHA22fqVwg3ZH#fbo)
 
-Dashboard I created to showcase human factor trends by number and average throughout the years and by quarter in each year
-<img width="713" height="400" alt="Screenshot 2026-11-21 231615" src="https://github.com/user-attachments/assets/c1c1982c-7b1c-41b4-9a7e-3104f905208c" />
+## SQL Scripts
+
+- [ASRS Query 1.sql](https://github.com/user-attachments/files/35476672/ASRS.Query.1.sql) — Initial data exploration and assessment.
+- [SQLQuery3.sql](https://github.com/user-attachments/files/35476686/SQLQuery3.sql) — Extraction of individual human factors from multi-value columns and preparation of data for visualization.
+
+## Data Source
+
+[NASA Aviation Safety Reporting System (ASRS)](https://asrs.arc.nasa.gov/)
